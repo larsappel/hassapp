@@ -1,6 +1,6 @@
 {
     "name": "HassApp",
-    "version": "1.1",
+    "version": "1.2",
     "slug": "hassapp",
     "description": "A simple csharp app",
     "arch": ["aarch64", "amd64", "armhf", "i386"],
